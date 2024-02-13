@@ -1,16 +1,9 @@
-# registration_mamedova_1127
+#Окно Авторизации и регистрации
 
-A new Flutter project.
+##Урок на переход между страницами
 
-## Getting Started
+<img width="499" alt="image" src="https://github.com/GirlSailor/registration/assets/145029043/d27f001b-444d-4445-a087-4948932cbe2e">
 
-This project is a starting point for a Flutter application.
+<img width="524" alt="image" src="https://github.com/GirlSailor/registration/assets/145029043/b9e421fc-8ae6-4e83-a2aa-abca4a0c454e">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="602" alt="Снимок экрана 2024-02-13 в 14 36 03" src="https://github.com/GirlSailor/registration/assets/145029043/168ebc14-83e4-471c-be0f-c84979807aa8">
